@@ -4,9 +4,7 @@ I'm glad that you are here. Your visit to my profile makes me extremely happy. C
 </p>
 
 Visit one of these two links to learn more about me:</br>
-<img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
 <u><b><a target="_blank" href="https://princebillygk.github.io/">princebillygk.github.io</a></b></u></br>
-<img width="18px" height="18px" src="https://img.icons8.com/color/48/000000/external-link.png"/>
 <u><b><a target="_blank" href="https://princebillygk.azurewebsites.net/">princebillygk.azurewebsites.net</a></b></u></br>
 
 
