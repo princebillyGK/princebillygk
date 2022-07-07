@@ -6,8 +6,9 @@ Visit one of these two links to learn more about me:
 - <a target="_blank" href="">princebillygk.azurewebsites.net</a>
 
 
-<h2>Find me on:</h2>
+<h2 align="right">Find me on</h2>
 
+<p align="right">
 <a target="_blank" href="https://www.linkedin.com/in/princebillygk/">
 <img width="32px" height="32px"  src="https://img.icons8.com/color/48/000000/linkedin.png"/>
 </a>
@@ -23,3 +24,4 @@ Visit one of these two links to learn more about me:
 <a target="_blank" href="mailto:princebillygk@gmail.com">
 <img width="32px" height="32px" src="https://img.icons8.com/fluency/48/000000/mail.png"/>
 </a>
+</p>
