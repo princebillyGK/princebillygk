@@ -1,8 +1,6 @@
-<!-- Primary Text Color: 20C20E -->
-<h1 style="color:#20C20E">Backend Developer (Golang)</h1>
+<h1 style="color:#20c20E"> Backend Developer (Golang)</h1>
+I'm glad that you are here. Your visit to my profile makes me extremely happy. Currently, I work as a freelance developer. My bachelor's degree will be completed very shortly. I'm seeking for work. I'm skilled in backend development. You can get in touch with me if you require a backend developer.
 
-<div style="display:flex;justify-content:space-around;">
-<a style="display:inline-block;background-color:#20C20E;color:#fff;border:none;padding:10px;">Test Button</a>
-<a style="display:inline-block;background-color:#20C20E;color:#fff;border:none;padding:10px;">Test Button</a>
-<a style="display:inline-block;background-color:#20C20E;color:#fff;border:none;padding:10px;">Test Button</a>
-</div>
+Visit one of these two links to learn more about me:
+- <a target="_blank" href="">princebillygk.github.io</a>
+- <a target="_blank" href="">princebillygk.azurewebsites.net</a>
